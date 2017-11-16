@@ -1,1 +1,1 @@
-Replace the Windows file explorer
+Replaces the Windows file explorer
